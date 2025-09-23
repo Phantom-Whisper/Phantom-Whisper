@@ -1,5 +1,5 @@
 # Hello there ! I'm Gabriel 👋
--  📄 My portfolio [here](https://phantom-whisper.github.io/portfolio/)
+-  📄 My portfolio [here](https://phantom-whisper.github.io/)
 - 👀 I’m interested in developing mobile and desktop applications
 - 🌱 I'm currently studying for a Bachelor's degree in Computer Science in Clermont-Ferrand (France). 
 ## 🛠️ Learned language
